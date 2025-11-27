@@ -11,8 +11,8 @@ The system is implemented as a PL/SQL package (hospital_pkg) with procedures and
 
 This project is ideal for learning PL/SQL packages, bulk data handling, and database-driven application logic in a healthcare context.
 # SCREENSHOTS HERE
-![](screenshots/screenshot(54).png)  
-![](screenshots/screenshot(55).png)  
-![](screenshots/screenshot(56).png)  
-![](screenshots/screenshot(57).png)  
-![](screenshots/screenshot(58).png)  
+![](screenshots/Screenshot(54).png)  
+![](screenshots/Screenshot(55).png)  
+![](screenshots/Screenshot(56).png)  
+![](screenshots/Screenshot(57).png)  
+![](screenshots/Screenshot(58).png)  
