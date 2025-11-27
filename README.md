@@ -10,3 +10,9 @@ Admit patients and track the number of patients currently admitted
 The system is implemented as a PL/SQL package (hospital_pkg) with procedures and functions for bulk insertion, patient admission, and information retrieval. It demonstrates the use of collections, bulk operations (FORALL), and data consistency management with commits. Test scripts are included to verify the correct operation of all features.
 
 This project is ideal for learning PL/SQL packages, bulk data handling, and database-driven application logic in a healthcare context.
+# SCREENSHOTS HERE
+![](screenshots/screenshot(54).png)  
+![](screenshots/screenshot(55).png)  
+![](screenshots/screenshot(56).png)  
+![](screenshots/screenshot(57).png)  
+![](screenshots/screenshot(58).png)  
